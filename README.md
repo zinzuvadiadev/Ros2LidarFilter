@@ -1,5 +1,5 @@
 # Bot_Description
-Created by Dev Zinzuvadia for Robot Software Engineer Intern - Coding Round
+A Ros2 based Lidar Filter for mobile robots 
 ## Launching the Robot in RViz
 1. Navigate to the workspace:
 ```bash
